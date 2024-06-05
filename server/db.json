@@ -1,4 +1,40 @@
 {
-    "users": [],
-    "tasks": []
+  "users": [
+    {
+      "id": "a8ad",
+      "name": "mahicol",
+      "email": "maicol@gmail.com",
+      "password": "U2FsdGVkX19yVVUz8ANQRTa65/D+ORHUGLcXMUo0918="
+    }
+  ],
+  "tasks": [
+    {
+      "title": "barrer",
+      "description": "aaaaaaaaaaaa",
+      "priority": "high",
+      "date": "2024-06-25",
+      "id": "ee00"
+    },
+    {
+      "title": "aaaaaaa",
+      "description": "ccccccccccc",
+      "priority": "medium",
+      "date": "2024-06-05",
+      "id": "e29f"
+    },
+    {
+      "id": "7ad1",
+      "title": "mañana",
+      "description": "zzzzzzzzzzzzzz",
+      "priority": "medium",
+      "date": "2024-06-06"
+    },
+    {
+      "id": "2e6a",
+      "title": "mañana",
+      "description": "1111111111111111",
+      "priority": "medium",
+      "date": "2024-06-30"
+    }
+  ]
 }
